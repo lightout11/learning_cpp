@@ -10,7 +10,7 @@ int main() {
     /* Enter your code here. Read input from STDIN. Print output to STDOUT */  
     int n;
     cin >> n;
-    int a[n];
+    int* a = new int[n];
     for (int i = 0; i < n; i++) {
         cin >> a[i];
     }
