@@ -1,6 +1,18 @@
 # learning_cpp
-
-Link to problem:
+## How to run
+make <file_name>
+```
+make conditionalstatement
+make forloop
+make array
+make strings
+make pointers
+make functions
+make class
+make classesandobjects 
+make virtualfunctions
+```
+## Link to problem
 
 * [conditionalstatement.cpp](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem?isFullScreen=true)
 * [forloop.cpp](https://www.hackerrank.com/challenges/c-tutorial-functions/problem?isFullScreen=true)
@@ -9,5 +21,5 @@ Link to problem:
 * [pointer.cpp](https://www.hackerrank.com/challenges/c-tutorial-pointer?isFullScreen=true)
 * [functions.cpp](https://www.hackerrank.com/challenges/c-tutorial-functions?isFullScreen=true)
 * [class.cpp](https://www.hackerrank.com/challenges/c-tutorial-class?isFullScreen=true)
-* [classesandobject.cpp](https://www.hackerrank.com/challenges/classes-objects?isFullScreen=true)
+* [classesandobjects.cpp](https://www.hackerrank.com/challenges/classes-objects?isFullScreen=true)
 * [virtualfunctions.cpp](https://www.hackerrank.com/challenges/virtual-functions?isFullScreen=true)
