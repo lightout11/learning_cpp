@@ -1,3 +1,8 @@
+/*
+-   Mang
+-   Dynamic memory allocation
+*/
+
 #include <cmath>
 #include <cstdio>
 #include <vector>

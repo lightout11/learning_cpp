@@ -1,3 +1,9 @@
+/*
+-   Class
+-   Pham vi truy cap: public, protected, private
+-   
+*/
+
 #include <iostream>
 #include <sstream>
 using namespace std;

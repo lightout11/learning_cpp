@@ -1,3 +1,7 @@
+/*
+-   Cau truc dieu khien if/else
+*/
+
 #include <iostream>
 
 using namespace std;
